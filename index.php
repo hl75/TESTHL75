@@ -9,5 +9,6 @@
 <body>
 	<?php echo "hello world" ?>
 	<?php echo "hello master" ?>
+	<?php echo "autre modif'" ?>
 </body>
 </html>
