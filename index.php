@@ -7,6 +7,6 @@
 	<link rel="stylesheet" href="">
 </head>
 <body>
-	<?php echo "hello world" 
+	<?php echo "hello world" ?>
 </body>
 </html>
